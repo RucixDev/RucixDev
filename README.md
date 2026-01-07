@@ -20,18 +20,6 @@ I don't like using heavy frameworks that much. I prefer to write things **from s
 
 ---
 
-## 🛠️ Tech Stack
-
-I work with technologies that let me control the hardware.
-
-| **Languages** | **Systems** | **Tools** |
-|:---:|:---:|:---:|
-| ![C++](https://img.shields.io/badge/-C++-050505?style=flat&logo=c%2B%2B&logoColor=00ff9d) | ![Node.js](https://img.shields.io/badge/-Node.js-050505?style=flat&logo=node.js&logoColor=00ff9d) | ![Assembly](https://img.shields.io/badge/-Assembly-050505?style=flat&logo=gnu-bash&logoColor=00ff9d) |
-| ![Rust](https://img.shields.io/badge/-Rust-050505?style=flat&logo=rust&logoColor=00ff9d) | ![Linux](https://img.shields.io/badge/-Linux-050505?style=flat&logo=linux&logoColor=00ff9d) | ![Git](https://img.shields.io/badge/-Git-050505?style=flat&logo=git&logoColor=00ff9d) |
-| ![Python](https://img.shields.io/badge/-Python-050505?style=flat&logo=python&logoColor=00ff9d) | ![Network](https://img.shields.io/badge/-Networking-050505?style=flat&logo=intel&logoColor=00ff9d) | ![VS Code](https://img.shields.io/badge/-VS_Code-050505?style=flat&logo=visual-studio-code&logoColor=00ff9d) |
-
----
-
 ## 🧠 My Philosophy
 
 ```bash
