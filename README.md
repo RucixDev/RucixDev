@@ -37,6 +37,10 @@ When I build from 0 I learn:
 
 ---
 
+## Donate
+
+https://ko-fi.com/rucixdev
+
 ## 📬 Contact
 
 If you have cool project or just want to talk about tech, send me a message. I'm always checking my emails so I will reply fast!
