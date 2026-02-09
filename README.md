@@ -37,8 +37,7 @@ When I build from 0 I learn:
 
 ---
 
-## Donate
-
+## Tips
 https://ko-fi.com/rucixdev
 
 ## 📬 Contact
